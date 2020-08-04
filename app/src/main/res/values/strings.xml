@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Movies </string>
+    <string name="Recent">Recent</string>
+    <string name="TopRated">TopRated</string>
+    <string name="Popular">Popular</string>
+    <string name="favorite">favorite</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7769272455002104/7502773627</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_bar_image">app bar image</string>
+    <string name="poster_image">poster image</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="movies_poster">Movies Poster</string>
+</resources>
